@@ -1,0 +1,10 @@
+/**
+ * @file Config.h.in
+ * @author Charles B. Owen
+ */
+
+// the configured options and settings for MachineDemo
+#define MachineDemoVersionMajor @MachineDemoLib_VERSION_MAJOR@
+#define MachineDemoVersionMinor @MachineDemoLib_VERSION_MINOR@
+#define MachineDemoVersionPatch @MachineDemoLib_VERSION_PATCH@
+#define MachineDemoVersion @MachineDemoLib_VERSION@
